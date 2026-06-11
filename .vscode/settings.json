@@ -4,5 +4,8 @@
   "editor.parameterHints.enabled": false,
   "editor.wordBasedSuggestions": "off",
   "editor.snippetSuggestions": "none",
-  "editor.acceptSuggestionOnEnter": "off"
+  "editor.acceptSuggestionOnEnter": "off",
+  "githubPullRequests.ignoredPullRequestBranches": [
+    "main"
+  ]
 }
